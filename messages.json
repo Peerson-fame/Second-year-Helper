@@ -1,0 +1,1596 @@
+{
+    "First Term": {
+        "Advanced Writing": {
+            "arabic": "كتابة متقدمة",
+            "Books": "2",
+            "Lectures": {
+                "1": {
+                    "Photos": ["2"],
+                    "Records": ["2"],
+                    "Notes": ["2", "2", "2", "2", "2", "2", "2", "2", "2", "2", "2"]
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Arabic": {
+            "arabic": "عربي",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Criticism": {
+            "arabic": "نقد أدبي",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Drama Movements": {
+            "arabic": "دراما",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "French": {
+            "arabic": "فرنسي",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "German": {
+            "arabic": "الماني",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Scientific Thinking": {
+            "arabic": "تفكير علمي",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Translation": {
+            "arabic": "ترجمة",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        }
+    },
+    "Second Term": {
+        "American Studies": {
+            "arabic": "دراسات أمريكية",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Legal Translation": {
+            "arabic": "ترجمة قانونية",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Literary Movements in The English Novel": {
+            "arabic": "تيارات ادبية في الرواية الإنجليزية",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Poetic Movements": {
+            "arabic": "تيارات شعر",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Research Reading & Writing": {
+            "arabic": "قرائة وكتابة بحث",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Semantics & Pragmatics": {
+            "arabic": "علم المعاني والبرجماتية",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        },
+        "Population & Environment": {
+            "arabic": "السكان والبيئة",
+            "Books": "",
+            "Lectures": {
+                "1": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "2": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "3": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "4": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "5": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "6": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "7": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "8": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "9": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "10": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "11": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "12": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "13": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "14": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "15": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "16": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "17": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "18": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "19": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                },
+                "20": {
+                    "Photos": [],
+                    "Records": [],
+                    "Notes": []
+                }
+            }
+        }
+    }
+}
